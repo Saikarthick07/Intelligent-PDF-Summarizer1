@@ -48,7 +48,7 @@ PDF Upload → Blob Trigger Function →
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/Intelligent-PDF-Summarizer.git
+git clone https://github.com/mspanwar21/Intelligent-PDF-Summarizer
 cd Intelligent-PDF-Summarizer
 ```
 
