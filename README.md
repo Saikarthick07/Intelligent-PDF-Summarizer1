@@ -121,28 +121,6 @@ func azure functionapp publish <your-app-name>
 
 ---
 
-## 🛡️ Security
-
-- Ensure **root SSH access is disabled** in any golden images used
-- Use **managed identities** instead of connection strings where possible
-- Restrict Blob Storage access with **RBAC** and **Private Endpoints**
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 👨‍💻 Author
-
-**Mohit Singh Panwar**  
-Intelligent PDF Summarizer | CST8919 Lab Project
-
-
----
-
 ## 📺 Demo Video
 
 Watch the full demo here: [📹 YouTube - Intelligent PDF Summarizer](https://youtu.be/us68soZ-beU)
