@@ -1,0 +1,12 @@
+cryptography
+azure-functions
+azure-functions-durable
+azure-ai-documentintelligence
+azure-storage-blob
+azure-identity
+azure-ai-formrecognizer
+openai
+requests
+pandas
+numpy
+PyPDF2
