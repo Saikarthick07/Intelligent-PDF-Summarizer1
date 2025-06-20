@@ -2,7 +2,7 @@ cryptography
 azure-functions
 azure-functions-durable
 azure-ai-documentintelligence
-azure-storage-blob
+azure-storage-blob==12.25.1
 azure-identity
 azure-ai-formrecognizer
 openai
