@@ -53,8 +53,8 @@ PDF Upload → Blob Trigger Function →
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/mspanwar21/Intelligent-PDF-Summarizer
-cd Intelligent-PDF-Summarizer
+git clone https://github.com/Saikarthick07/Intelligent-PDF-Summarizer1.git
+cd Intelligent-PDF-Summarizer1
 ```
 
 ### 2. Create virtual environment and install dependencies
