@@ -1,5 +1,10 @@
 # 🧠 Intelligent PDF Summarizer
 
+## 📺 Demo Video
+
+Watch the full demo here: [📹 YouTube - Intelligent PDF Summarizer](https://youtu.be/COJV3vtDgEA)
+
+
 This project is an AI-powered Azure Function App that automatically extracts and summarizes the content of uploaded PDF files using:
 
 - **Azure Durable Functions** (Orchestration)
